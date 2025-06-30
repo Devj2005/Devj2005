@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Devyan Jethwa</h1>
+<h1>Hi 👋, I'm Devyan Jethwa A</h1>
 <p>I can code using Java, C++, Swift(iOS), Python</p>
 <p>Recently completed App development in Swift</p>
 <h2>🚀 Languages and Tools I Use</h2>
